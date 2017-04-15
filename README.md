@@ -4,7 +4,7 @@
 
 ## What's Tachyons?
 
-[Tachyons](http://www.tachyons.io) is a css toolkit. It's mobile-first 📱, highly-readable 📖 and well documented 📘📙📕. It allows you to build pages and components with as little css as possible using modules applied with classes.
+[Tachyons](http://www.tachyons.io) is a css toolkit. It's mobile-first 📱, highly-readable 📖 and well documented 📘📙📕. It allows you to build pages and components with as little css as possible using classes.
 
 ## And Unsplash?
 [Unsplash](https://unsplash.com/) is a giant photography community 📷 filled with *free (do whatever you want)* high-resolution photos 🖼️. It is amazing 🙏.
