@@ -1,6 +1,6 @@
 # tachy.designs
 
-Tachy.designs is a 1-page template built with [Tachyons](http://www.tachyons.io) and [Unsplash](http://www.unsplash.com)  for [Tachy.Tools](http://tachy.tools).
+[Tachy.designs](http://blunt.af/tachy.designs/) is a 1-page template built with [Tachyons](http://www.tachyons.io) and [Unsplash](http://www.unsplash.com)  for [Tachy.Tools](http://tachy.tools).
 
 ## What's Tachyons?
 
